@@ -15,7 +15,7 @@ and I do not know how to program using Python,
 so I put all I know on the chart and I think the users can understand that. 
 
 In fact, they do not have to know too much programming skills, 
-even using Excel, we can plot fantastic charts. 
+even using Excel, they can plot fantastic and concise charts. 
 Maybe, they just need some practical guidance or some will to change.
 
 I wrote three tutorials about how to create concise charts for reporting from a practical perspective. 
