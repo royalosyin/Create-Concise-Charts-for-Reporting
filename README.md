@@ -16,7 +16,7 @@ so I put all I know on the chart and I think the users can understand that.
 
 In fact, they do not have to know too much programming skills, 
 even using Excel, we can plot fantastic charts. 
-Maybe, they just need some practical guidance.
+Maybe, they just need some practical guidance or some will to change.
 
 I wrote three tutorials about how to create concise charts for reporting from a practical perspective. 
 Certainly, it is only from my own experience; however, hope it is a little bit helpful for others.
