@@ -21,6 +21,6 @@ Maybe, they just need some practical guidance.
 I wrote three tutorials about how to create concise charts for reporting from a practical perspective. 
 Certainly, it is only from my own experience; however, hope it is a little bit helpful for others.
 
-For these tutorial, the most important principle just is DRY (do not repeat yourself).
+For these tutorials, the most important principle just is DRY (do not repeat yourself).
 
 Learn by doing.
