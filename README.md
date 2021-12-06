@@ -10,7 +10,7 @@ It also was found that most these charts were presented with too many redundant 
 
 I once talked to some guys about simplifying charts (No suprise, most of them have a Sr. title). 
 What can you imagine they say? 
-They just shrugs, and say I am not professional at visualization, 
+They just shrug, and say I am not professional at visualization, 
 and I do not know how to program using Python, 
 so I put all I know on the chart and I think the users can understand that. 
 
