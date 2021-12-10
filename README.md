@@ -24,5 +24,7 @@ Certainly, it is only from my own experience; however, hope it is a little bit h
 For these tutorials, the two most important principle just are 
 - DRY (do not repeat yourself),
 - White spaces are not a enemy. They are your friends.
+- Perfection is achieved. not when there is nothing left to add but when there is nothing left to take away ... 
+  (Antoine de StExupery. Wind, Sand, and Starts, 1939)
 
 Learn by doing.
